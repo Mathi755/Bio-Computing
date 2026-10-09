@@ -1,0 +1,9 @@
+cd "c:\Work\Bio Computing"
+
+python bat_algorithm.py
+python pso.py
+python abc.py
+python cuckoo_search.py
+python harmony_search.py
+python flower_pollination.py
+python aco.py          # TSP demo (discrete problem)
